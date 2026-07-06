@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1288-remove-covered-intervals](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Greedy
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1288-remove-covered-intervals](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## String
 |  |
