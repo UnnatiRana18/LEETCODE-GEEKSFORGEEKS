@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0070-climbing-stairs) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0102-binary-tree-level-order-traversal) |
+## Prefix Sum
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
