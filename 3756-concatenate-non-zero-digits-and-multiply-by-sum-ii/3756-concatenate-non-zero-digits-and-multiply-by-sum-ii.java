@@ -1,93 +1,49 @@
 class Solution {
-    static final int MOD = 1_000_000_007;
+    static final int MOD = 1000000007;
 
     public int[] sumAndMultiply(String s, int[][] queries) {
 
-        int n = s.length();
-
-        // Store non-zero digits and their original positions
-        ArrayList<Integer> digits = new ArrayList<>();
         ArrayList<Integer> pos = new ArrayList<>();
+        ArrayList<Integer> digit = new ArrayList<>();
 
-        for (int i = 0; i < n; i++) {
-            int d = s.charAt(i) - '0';
-            if (d != 0) {
-                digits.add(d);
+        for (int i = 0; i < s.length(); i++) {
+            if (s.charAt(i) != '0') {
                 pos.add(i);
+                digit.add(s.charAt(i) - '0');
             }
         }
 
-        int m = digits.size();
+        int m = digit.size();
 
-        // prefix sum of digits
-        long[] prefixSum = new long[m + 1];
-
-        // prefix number
-        long[] prefixNum = new long[m + 1];
-
-        // powers of 10
-        long[] pow10 = new long[m + 1];
-        pow10[0] = 1;
+        long[] sum = new long[m + 1];
+        long[] num = new long[m + 1];
+        long[] pow = new long[m + 1];
+        pow[0] = 1;
 
         for (int i = 0; i < m; i++) {
-            prefixSum[i + 1] = prefixSum[i] + digits.get(i);
-            prefixNum[i + 1] = (prefixNum[i] * 10 + digits.get(i)) % MOD;
-            pow10[i + 1] = (pow10[i] * 10) % MOD;
+            sum[i + 1] = sum[i] + digit.get(i);
+            num[i + 1] = (num[i] * 10 + digit.get(i)) % MOD;
+            pow[i + 1] = (pow[i] * 10) % MOD;
         }
 
         int[] ans = new int[queries.length];
 
-        for (int q = 0; q < queries.length; q++) {
+        for (int i = 0; i < queries.length; i++) {
 
-            int l = queries[q][0];
-            int r = queries[q][1];
+            int l = Collections.binarySearch(pos, queries[i][0]);
+            if (l < 0) l = -l - 1;
 
-            int left = lowerBound(pos, l);
-            int right = upperBound(pos, r) - 1;
+            int r = Collections.binarySearch(pos, queries[i][1]);
+            if (r < 0) r = -r - 2;
 
-            // No non-zero digits
-            if (left > right) {
-                ans[q] = 0;
-                continue;
-            }
+            if (l > r) continue;
 
-            int len = right - left + 1;
+            long x = (num[r + 1] - num[l] * pow[r - l + 1] % MOD + MOD) % MOD;
+            long s1 = sum[r + 1] - sum[l];
 
-            long sum = prefixSum[right + 1] - prefixSum[left];
-
-            long x = (prefixNum[right + 1]
-                    - (prefixNum[left] * pow10[len]) % MOD
-                    + MOD) % MOD;
-
-            ans[q] = (int) ((x * (sum % MOD)) % MOD);
+            ans[i] = (int) (x * s1 % MOD);
         }
 
         return ans;
-    }
-
-    // First index >= target
-    private int lowerBound(ArrayList<Integer> arr, int target) {
-        int l = 0, r = arr.size();
-        while (l < r) {
-            int mid = (l + r) / 2;
-            if (arr.get(mid) < target)
-                l = mid + 1;
-            else
-                r = mid;
-        }
-        return l;
-    }
-
-    // First index > target
-    private int upperBound(ArrayList<Integer> arr, int target) {
-        int l = 0, r = arr.size();
-        while (l < r) {
-            int mid = (l + r) / 2;
-            if (arr.get(mid) <= target)
-                l = mid + 1;
-            else
-                r = mid;
-        }
-        return l;
     }
 }
