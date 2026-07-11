@@ -86,12 +86,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0145-binary-tree-postorder-traversal) |
+| [2685-count-the-number-of-complete-components](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0102-binary-tree-level-order-traversal) |
+| [2685-count-the-number-of-complete-components](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/2685-count-the-number-of-complete-components) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -103,10 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
