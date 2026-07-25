@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0283-move-zeroes) |
 | [1288-remove-covered-intervals](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -137,5 +138,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0283-move-zeroes) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
