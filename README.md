@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Memoization
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1288-remove-covered-intervals](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
