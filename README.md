@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0169-majority-element) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0217-contains-duplicate) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0242-valid-anagram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0242-valid-anagram) |
