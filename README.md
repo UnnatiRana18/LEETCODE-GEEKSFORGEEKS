@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0268-missing-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0268-missing-number) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0283-move-zeroes) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
