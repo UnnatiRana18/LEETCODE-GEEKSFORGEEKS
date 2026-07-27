@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0347-top-k-frequent-elements) |
 | [1288-remove-covered-intervals](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0347-top-k-frequent-elements) |
 | [1288-remove-covered-intervals](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0347-top-k-frequent-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
@@ -168,10 +171,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0347-top-k-frequent-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -180,9 +185,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
