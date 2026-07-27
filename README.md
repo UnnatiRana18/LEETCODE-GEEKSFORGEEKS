@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0283-move-zeroes) |
 | [1288-remove-covered-intervals](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/1288-remove-covered-intervals) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0238-product-of-array-except-self) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
 |  |
