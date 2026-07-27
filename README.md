@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0169-majority-element) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0283-move-zeroes) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
