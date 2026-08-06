@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0349-intersection-of-two-arrays) |
 | [1288-remove-covered-intervals](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0349-intersection-of-two-arrays) |
 | [1288-remove-covered-intervals](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0349-intersection-of-two-arrays) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0349-intersection-of-two-arrays) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/3731-find-missing-elements) |
 ## Union-Find
@@ -171,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0349-intersection-of-two-arrays) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
 |  |
