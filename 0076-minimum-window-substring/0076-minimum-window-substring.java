@@ -1,46 +1,61 @@
 class Solution {
+
     public String minWindow(String s, String t) {
+
         if (s.length() < t.length()) {
             return "";
         }
 
-        Map<Character, Integer> charCount = new HashMap<>();
-        for (char ch : t.toCharArray()) {
-            charCount.put(ch, charCount.getOrDefault(ch, 0) + 1);
+        int[] freq = new int[128];
+
+        // Store frequency of characters in t
+        for (char c : t.toCharArray()) {
+            freq[c]++;
         }
 
-        int targetCharsRemaining = t.length();
-        int[] minWindow = {0, Integer.MAX_VALUE};
-        int startIndex = 0;
+        int left = 0;
+        int count = 0;
 
-        for (int endIndex = 0; endIndex < s.length(); endIndex++) {
-            char ch = s.charAt(endIndex);
-            if (charCount.containsKey(ch) && charCount.get(ch) > 0) {
-                targetCharsRemaining--;
+        int minLength = Integer.MAX_VALUE;
+        int start = 0;
+
+        for (int right = 0; right < s.length(); right++) {
+
+            char c = s.charAt(right);
+
+            // Character is needed
+            if (freq[c] > 0) {
+                count++;
             }
-            charCount.put(ch, charCount.getOrDefault(ch, 0) - 1);
 
-            if (targetCharsRemaining == 0) {
-                while (true) {
-                    char charAtStart = s.charAt(startIndex);
-                    if (charCount.containsKey(charAtStart) && charCount.get(charAtStart) == 0) {
-                        break;
-                    }
-                    charCount.put(charAtStart, charCount.getOrDefault(charAtStart, 0) + 1);
-                    startIndex++;
+            freq[c]--;
+
+            // Window contains all characters of t
+            while (count == t.length()) {
+
+                // Update answer
+                if (right - left + 1 < minLength) {
+                    minLength = right - left + 1;
+                    start = left;
                 }
 
-                if (endIndex - startIndex < minWindow[1] - minWindow[0]) {
-                    minWindow[0] = startIndex;
-                    minWindow[1] = endIndex;
+                char leftChar = s.charAt(left);
+
+                freq[leftChar]++;
+
+                // We removed a required character
+                if (freq[leftChar] > 0) {
+                    count--;
                 }
 
-                charCount.put(s.charAt(startIndex), charCount.getOrDefault(s.charAt(startIndex), 0) + 1);
-                targetCharsRemaining++;
-                startIndex++;
+                left++;
             }
         }
 
-        return minWindow[1] >= s.length() ? "" : s.substring(minWindow[0], minWindow[1] + 1);        
+        if (minLength == Integer.MAX_VALUE) {
+            return "";
+        }
+
+        return s.substring(start, start + minLength);
     }
 }
