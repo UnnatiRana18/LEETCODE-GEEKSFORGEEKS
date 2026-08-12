@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0347-top-k-frequent-elements) |
@@ -195,10 +196,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
@@ -214,4 +217,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/UnnatiRana18/LEETCODE-GEEKSFORGEEKS/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
